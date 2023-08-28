@@ -851,9 +851,9 @@ section:nth-child(odd) .animate.scroll,
     flex-direction: column;
   }
 
-  /* .home-sci {
-    width: 160px;
-  } */
+  .home-sci {
+    bottom: 2rem;
+  }
 
   .home-sci a{
     width: 38px;
