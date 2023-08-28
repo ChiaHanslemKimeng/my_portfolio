@@ -219,7 +219,7 @@ section{
 
 .home-sci{
   position: absolute;
-  bottom: 4rem;
+  bottom: 2rem;
   width: 250px;
   display: flex;
   justify-content: space-between;
@@ -528,11 +528,11 @@ span{
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span{
-   width: 80%;
+   width: 95%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
-  width: 67%;
+  width: 72%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
@@ -544,7 +544,7 @@ span{
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
-  width: 90%;
+  width: 68%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
@@ -932,7 +932,7 @@ section:nth-child(odd) .animate.scroll,
     width: 0;
   }
   65%,78%,85%{
-   width: 95%;
+   width: 100%;
    opacity: 1;
   }
   75%,81%{
