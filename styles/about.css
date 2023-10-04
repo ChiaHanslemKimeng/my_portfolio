@@ -1,0 +1,43 @@
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  list-style: none;
+  outline: none;
+  scroll-behavior: smooth;
+  text-decoration: none;
+}
+
+:root{
+  --bg-color: #081b29;
+  --second-bg-color: #112e42;
+  --text-color: #ededed;
+  --main-color: #00abf0;
+}
+
+html{
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body{
+  background: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* .about-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.textabout{
+  padding: 3rem;
+}
+
+.bx-home{
+  margin-right: .8rem;
+}
